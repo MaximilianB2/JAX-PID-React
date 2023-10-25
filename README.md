@@ -6,3 +6,9 @@ A simple CSTR (shown below) [Hedengren (2014)](http://www.apmonitor.com/che436/i
 <p align="center">
   <img src="https://github.com/MaximilianB2/JAX-PID-React/blob/main/Reactor_Diagram.png" width="70%">
 </P>
+
+Closed-loop simulation is shown below
+
+<p align="center">
+  <img src="https://github.com/MaximilianB2/JAX-PID-React/blob/main/closed-loop.png" width="70%">
+</P>
